@@ -1,0 +1,35 @@
+[
+  {
+    "_id": "1",
+    "name": "Wireless Headphones",
+    "category": "Electronics",
+    "price": 150,
+    "features": ["Bluetooth", "Noise Cancelling"],
+    "details": {
+      "battery_life": "30 hours",
+      "color": "Black"
+    }
+  },
+  {
+    "_id": "2",
+    "name": "Denim Jacket",
+    "category": "Clothing",
+    "price": 65,
+    "sizes": ["Small", "Medium", "Large"],
+    "details": {
+      "material": "Cotton",
+      "wash_instruction": "Cold water only"
+    }
+  },
+  {
+    "_id": "3",
+    "name": "Peanut Butter",
+    "category": "Groceries",
+    "price": 5,
+    "ingredients": ["Peanuts", "Salt"],
+    "details": {
+      "expires": "2026-12-31",
+      "calories": 190
+    }
+  }
+]
